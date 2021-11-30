@@ -4,4 +4,4 @@
 # Christopher : Depth First ; 
 # Javier : Graph creation and a lot of help to Chris and Kali ; 
 # Kalista : Breadeth First; 
-# Link to video : 
+# Link to video : https://youtu.be/rjjRzP8v3JE
